@@ -1,2 +1,2 @@
-# tela-cadastro-utilizando-reactnative
-uma tela bem simples utilizando react
+# tela-cadastro-react
+primeira tela de cadastro em expo para estudos
